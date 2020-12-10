@@ -1,0 +1,109 @@
+body{
+    background-image: url(background.jpg);
+}
+ul li{
+    list-style-type:none;
+    margin-bottom:10px;
+}
+h1{
+    margin-left:20px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    font-family: 'Langar', cursive;
+}
+h3{
+    color: white;
+    font-family: 'Langar', cursive;
+
+    font-family: 'Nerko One', cursive;
+}
+.form{
+    border:6px solid blue;
+    width:500px;
+    margin-left:20px;
+    padding: 20px;
+    padding-top: 30px;
+}
+label{
+    color: white;
+    font-family: 'Langar', cursive;
+}
+
+input{
+    margin-left:60px;
+}
+#nama2{
+    margin-left:77px;
+}
+#nama3{
+    margin-left:80px;
+}
+#nama4{
+    margin-left:70px;
+}
+#nama5{
+    margin-left:27px;
+}
+#nama6{
+    margin-left:19px;
+}
+#nama7{
+    margin-left:10px;
+}
+#nama8{
+    margin-left:35px;
+}
+#proses{
+    margin-left:120px;
+    margin-top:20px;
+    width: 130px;
+    
+}
+svg{
+    color: white;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -70px;
+}
+.bg{
+    border: 1px solid ;
+    width:600px;
+    height: 200px;
+    background-color: black;
+    margin-left: 49%;
+    margin-top: -380px;
+    position: absolute;
+    opacity:0.4;
+    border-radius: 20%;
+}
+
+.motive{
+   
+    width:490px;
+    position: absolute;
+    margin-left: 53%;
+    text-align: center;
+    margin-top: -350px;
+}
+.copy h1{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 51%;
+    margin-top: -150px;
+}
+/*halaman 2*/
+p{
+    color: white;
+}
+.hasil{
+    border:1px solid;
+    width:50%;
+    margin-left:20%;
+    padding:10px;
+    background-color: black;
+    margin-top: 90px;
+    opacity: 0.85;
+}
